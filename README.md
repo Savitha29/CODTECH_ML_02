@@ -17,7 +17,7 @@ The objective of this project is to make a predictive model to detect fraudulent
 - **Data Cleaning:** Ensuring the dataset is free from inconsistencies and missing values.
 - **Data Visualization:** Creating visualizations to understand data distributions, trends, and relationships.
 - **Model Building and Training:** Building a model and training it on the given data.
-- **Model Evaluation:** Evaluading the performance of the model to analyze its efficiency and accuracy in making predictions.
+- **Model Evaluation:** Evaluating the performance of the model to analyze its efficiency and accuracy in making predictions.
 
 ### Technologies used
 
